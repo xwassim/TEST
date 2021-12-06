@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-image: url(http://www.faf.dz/wp-content/uploads/2019/07/IMG_2162.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+}
+
+section{
+	 
+	 position: absolute;
+	 right: 50px;
+	 top: 80px;
+     left: 50px;
+     font-family: sans-serif;
+	 font-style: oblique;
+      background-color: white;
+     
+} 
+
+.qq{
+	margin-top: 10px;
+	margin-bottom: 10px;  
+    margin-left: 60px;
+}
+article{
+      padding-top: 15px;
+      padding-left: 15px;
+   }
+
+  
+
+h2{
+	 margin-top: 10px;
+	text-align: center;
+}
+
+
+h5{
+	font-size: 18px;
+}
+

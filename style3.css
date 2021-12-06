@@ -1,0 +1,86 @@
+*{
+	 margin: 0px;
+	 padding: 0px;
+}
+
+
+
+h1{
+     text-align: center;
+     margin-top: 20px;
+     margin-left: 50px;
+}   
+
+body{
+	 background-image: url(http://www.faf.dz/wp-content/uploads/2019/07/IMG_2162.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center center;
+   
+}
+
+
+header{
+     position: absolute;
+     margin: 0px;
+     padding: 0px;
+     height: 150px;
+     width: 1000px;
+    
+}   
+
+nav{
+	 position: absolute;
+	 margin: 0px;
+     padding: 0px 20px;
+     text-align: center;
+     width: 1000px;
+     margin-top: 50px;
+
+}
+
+nav li{
+     
+     background-color: #CD260F;
+     list-style: none;
+     display: inline-block; 
+     
+     border: 3px groove;
+     border-radius: 30px;
+     border-color: black;
+     width: 135px;
+     line-height: 30px;
+     height: 30px;
+     font-family: sans-serif;
+     font-style: oblique;
+}
+
+nav li a{
+       
+      display: block;
+      text-decoration: none;
+      color: white;
+
+
+}
+
+
+nav li :hover{
+     
+     background-color: #00C500;
+     border-radius: 30px;
+     border: groove;
+     
+
+   
+}
+
+section{
+    position: absolute;
+	top: 170px;
+	left: 50px;
+	right: 50px;
+    height: 1000px;
+    background-color: white;
+}
+

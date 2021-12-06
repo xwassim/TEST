@@ -1,0 +1,246 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+
+
+header{
+     position: absolute;
+     margin: 0px;
+     padding: 0px;
+     height: 245px;
+     width: 1265px;
+    
+     
+     /*menu*/
+
+}
+nav{
+	 position: absolute;
+	 margin: 0px;
+     padding: 0px;
+     text-align: center;
+    
+     width: 1265px;
+     margin-top: 230px;
+
+}
+
+
+
+nav li{
+     
+     background-color: #CD260F;
+     list-style: none;
+     display: inline-block; 
+     border: 5px groove;
+     border-radius: 30px;
+     border-color: black;
+     width: 194px;
+     line-height: 30px;
+     height: 35px;
+     font-family: sans-serif;
+     font-style: oblique;
+}
+  
+.dd{
+
+	 border-right: 5px solid black;
+}  
+    
+nav li a{
+        
+        display: block;
+        text-decoration: none;
+        color: white;
+
+
+}
+
+
+nav li :hover{
+ 
+     background-color: #00C500;
+     border-radius: 30px;
+     border: groove;
+     margin-bottom: 8px;
+}
+
+body{
+
+      background-image: url(dzair.jpg);
+     
+}
+
+.image {
+     position: absolute;
+ 	 margin-left: 50px;
+     margin-top: 90px;
+     float: left;
+}
+
+ h1{
+     padding: 1px;
+     margin-top: 10px;
+     background-color: #CD260F;
+     text-align: center;
+     font-family: sans-serif;
+     font-weight: 2em;
+     font-style: oblique;
+     color: white;
+}
+
+.bobo{  
+     padding: 0px;
+     margin-top: 70px;
+     margin-right: 720px;
+     color: white;
+     font-family: sans-serif;
+     font-style: oblique;
+     float: right;
+     background-color: rgba(215, 40, 40, 0.74);
+
+}
+
+.hoho{
+     margin-top: 30px; 
+     background-color: rgba(215, 40, 40, 0.74);
+     margin-right: 395px;
+     color: white;
+     font-family: sans-serif;
+     font-style: oblique;
+     float: right;
+}
+     /* today's work */
+
+     /*debut article 1*/
+
+section{ 
+     position: absolute;
+     top: 431px;
+     left: 35px;
+     right: 300px;
+     bottom: 2000px;
+
+}
+ 
+.jojo{
+     position: absolute;
+     margin-left: 45px;
+     padding: 2em;
+     font-family: sans-serif;
+     font-style: oblique;
+     color: black;
+     box-sizing: border-box;
+     background-color: white;
+     border-radius: 30px;
+     box-shadow: 0 5px 15px;
+     width: 850px;
+     height: 370px;
+ }
+
+.jojo .jox{
+     padding: 30px;
+     display: flex;
+}
+
+
+.jojo .jox p{
+     padding-left: 20px;
+}
+
+.jaja{
+
+     margin-top: 30px;
+     margin-right: 10px;
+}
+
+.jaja:hover{
+ 
+  box-shadow: 5px 15px 23px rgba(215, 40, 40, 0.74);
+
+}   
+
+
+     /*fin article 1*/
+
+     /*debut article 2*/
+.baba{
+     position: absolute;
+     top: 415px;
+     position: absolute;
+     margin-left: 45px;
+     padding: 2em;
+     font-family: sans-serif;
+     font-style: oblique;
+     color: black;
+     box-sizing: border-box;
+     background-color: white;
+     border-radius: 30px;
+     box-shadow: 0 5px 15px;
+     width: 850px;
+     height: 395px;
+}
+
+.baba .box{
+     padding: 30px;
+     display: flex;
+}
+
+.baba .box p{
+     padding-left: 20px;
+}
+
+.bibi{
+     margin-top: 30px;
+     margin-right: 10px;
+}
+
+.bibi:hover{
+     box-shadow: 5px 15px 23px rgba(215, 40, 40, 0.74);
+}
+
+     /* fin du article 2*/
+     /*debut article 3*/
+
+.vava{
+     position: absolute;
+     top: 854px;
+     position: absolute;
+     margin-left: 45px;
+     padding: 2em;
+     font-family: sans-serif;
+     font-style: oblique;
+     color: black;
+     box-sizing: border-box;
+     background-color: white;
+     border-radius: 30px;
+     box-shadow: 0 5px 15px;
+     width: 850px;
+     height: 395px;
+}
+
+.vava .vox{
+      padding: 30px;
+     display: flex;
+}
+
+.vava .vox p{
+     padding-left: 20px;
+}
+
+.vivi{
+     margin-top: 30px;
+     margin-right: 10px;
+}
+
+.vivi:hover{
+     box-shadow: 5px 15px 23px rgba(215, 40, 40, 0.74);
+}
+ 
+     /*fin article 3*/
+
+.mumu{
+     height: 38px;
+     margin-top: 10px;
+}
